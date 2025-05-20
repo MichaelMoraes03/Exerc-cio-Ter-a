@@ -1,0 +1,10 @@
+Resposta do exercício
+
+Questão 7:
+Ele é importante para que o projeto tenha requisitos a ser seguidos
+
+Questão 8:
+O Plannig serve para que possa fazer o começo do projeto com seus requisitos e planos para o mesmo
+O Daily Scrum serve para analisar oque foi feito no dia e oque planeja fazer no dia.
+O Review serve para que possa analisar a equipe durante o desenvolvimento
+O Retrospective serve para rever tudo oque foi feito 
