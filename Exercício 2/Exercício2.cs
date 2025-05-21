@@ -5,15 +5,17 @@
     int EstoIngreVIP = 50;
     double VendIngrePadrao = 0;
     double VendIngreVIP = 0;
+    int QuantIngrePadrao = 0;
+    int QuantIngreVIP = 0;
 
 Console.WriteLine("Ingressos padrão disponíveis: 100");
 Console.WriteLine("Ingressos VIP disponíveis: 50");
 
     Console.Write("Quantos ingressos padrão você deseja? ");
-    int QuantIngrePadrao = int.Parse(Console.ReadLine());
+    QuantIngrePadrao = int.Parse(Console.ReadLine());
 
     Console.Write("Quantos ingressos VIP você deseja? ");
-    int QuantIngreVIP = int.Parse(Console.ReadLine());
+    QuantIngreVIP = int.Parse(Console.ReadLine());
 
 if (QuantIngrePadrao > EstoIngrePadrao || QuantIngreVIP > EstoIngreVIP)
 {
@@ -30,13 +32,12 @@ else
 }
     int TotalIngreVendido = QuantIngrePadrao + QuantIngreVIP;   
     double ValorTotal = VendIngrePadrao + VendIngreVIP;
-    int RestIngrePadrao = (QuantIngrePadrao - EstoIngrePadrao)*-1;
-    int RestIngreVIP = (QuantIngreVIP - EstoIngreVIP)*-1;
+
     
 Console.WriteLine("Total vendidos: " + TotalIngreVendido);
 Console.WriteLine("Total arrecadado: R$" + ValorTotal.ToString ("F2"));
-Console.WriteLine("Ingressos padrão restante: " + RestIngrePadrao);
-Console.WriteLine("Ingressos VIP restante: " + RestIngreVIP);
+Console.WriteLine("Ingressos padrão restante: " + EstoIngrePadrao);
+Console.WriteLine("Ingressos VIP restante: " + EstoIngreVIP);
 
 
 
