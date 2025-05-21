@@ -3,3 +3,13 @@ C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\obj\Debug\net9.0\Ex
 C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\obj\Debug\net9.0\Exercício 2.AssemblyInfo.cs
 C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\obj\Debug\net9.0\Exercício 2.csproj.CoreCompileInputs.cache
 C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\obj\Debug\net9.0\Exercício 2.sourcelink.json
+C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\bin\Debug\net9.0\Exercício 2.exe
+C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\bin\Debug\net9.0\Exercício 2.deps.json
+C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\bin\Debug\net9.0\Exercício 2.runtimeconfig.json
+C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\bin\Debug\net9.0\Exercício 2.dll
+C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\bin\Debug\net9.0\Exercício 2.pdb
+C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\obj\Debug\net9.0\Exercício 2.dll
+C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\obj\Debug\net9.0\refint\Exercício 2.dll
+C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\obj\Debug\net9.0\Exercício 2.pdb
+C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\obj\Debug\net9.0\Exercício 2.genruntimeconfig.cache
+C:\Users\SMN INGÁ - 03\Desktop\ExerciciosTerca\Exercício 2\obj\Debug\net9.0\ref\Exercício 2.dll

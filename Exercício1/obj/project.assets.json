@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SMN INGÁ - 03\\Desktop\\ExerciciosTerca\\Exercício 1.cs\\Exercício 1.cs.csproj",
+      "projectUniqueName": "C:\\Users\\SMN INGÁ - 03\\Desktop\\ExerciciosTerca\\Exercício1\\Exercício 1.cs.csproj",
       "projectName": "Exercício 1.cs",
-      "projectPath": "C:\\Users\\SMN INGÁ - 03\\Desktop\\ExerciciosTerca\\Exercício 1.cs\\Exercício 1.cs.csproj",
+      "projectPath": "C:\\Users\\SMN INGÁ - 03\\Desktop\\ExerciciosTerca\\Exercício1\\Exercício 1.cs.csproj",
       "packagesPath": "C:\\Users\\SMN INGÁ - 03\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SMN INGÁ - 03\\Desktop\\ExerciciosTerca\\Exercício 1.cs\\obj\\",
+      "outputPath": "C:\\Users\\SMN INGÁ - 03\\Desktop\\ExerciciosTerca\\Exercício1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SMN INGÁ - 03\\AppData\\Roaming\\NuGet\\NuGet.Config"
